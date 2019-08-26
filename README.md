@@ -1,3 +1,4 @@
+Put the path of this directory into PATH of your environment variables
 
 - Node:
   - https://nodejs.org/dist/
